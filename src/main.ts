@@ -1,7 +1,6 @@
 import './polyfills';
 
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
-import 'zone.js/plugins/zone-error';
 
 import { AppModule } from './app/app.module';
 
